@@ -1,7 +1,7 @@
 ﻿# Create a Windows VM
 
 # Variables for common values
-$resource_name = "Ansible"
+$resource_name = "Flex"
 $resource_location = "South India"
 $Network_AddressPrefix = "10.0.0.0/16"
 $Subnet1_AddressPrefix = "10.0.0.0/24"
